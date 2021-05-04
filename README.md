@@ -1,2 +1,4 @@
 # Repositorio-VA-2-Eng-Soft
-Repositório feito com proposito de auxiliar na prova.
+**Aluno** Renan Rodrigues Toribio 
+**Curso:** Sistemas da informação
+**Semestre:** 3º Semestre
